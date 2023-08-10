@@ -4,7 +4,7 @@
     format("truetype");
 }
 :root {
-  --ff-Plus-Jakarta-Sans: "Plus Jakarta Sans" sans-serif;
+  --ff-Plus-Jakarta-Sans: "Plus Jakarta Sans", sans-serif;
 
   --fs-400: 1rem;
   --fs-500: 1.125rem;
